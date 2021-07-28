@@ -106,7 +106,13 @@
 //     console.log(Array(entry.textContent))
 // })
 
-/
+//task3 - Напишите функцию, которая вернет массив с текстами внутри тэгов элементов
+// с классом nav__link__item
+const getHeaderAll = Array.from( document.getElementsByClassName('nav__link__item')).map(it => it[getHeaderAll] {
+    console.log(getHeaderAll.textContent)
+})
+
+
 
 
 
