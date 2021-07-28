@@ -113,6 +113,12 @@ const getHeaderAll = Array.from( document.getElementsByClassName('nav__link__ite
 })
 
 
+//task4 - Напишите функцию, которая вернет массив со значениями атрибута
+// class внутри тэгов элементов с классом nav__link__item
+// let getClassesA = document.querySelectorAll('nav__link__item')
+// console.log(getClassesA)
+
+
 
 
 
