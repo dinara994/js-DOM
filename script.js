@@ -7,19 +7,17 @@
 // alert(answer)
 
 // Видео 00:17 мин
-// console.log(window) // Глобальтный обьект нашей страницы еще 00:38. 00:49
+// console.log(window) // Глобальтный обьект в БРАУЗЕРЕ  видео 00:38. 00:49
 
-// console.dir(document.children[0].children[1].children[0].textContent = 'Hello dear!')
+// console.dir(document.children[0].children[1].children[0].textContent = 'Hello dear!') //С помощью ключей поменяли содерж-е эелем.
 //
-//
-//
-// let getAllHeaders = document.getElementsByTagName('h1') //Получили вс элементы h1
+// let getAllHeaders = document.getElementsByTagName('h1') //Получили все элементы h1
 // console.log(getAllHeaders)
 //
 // let getAllClasses = document.getElementsByClassName('description') //получает в виде массива
 // console.log(getAllClasses)
 //
-// let getAllId = document.getElementById('subtitle') //для вспомогател класс найдет единственный тот самы который нужет
+// let getAllId = document.getElementById('subtitle') //для вспомогатель класс найдет единственный тот самы который нужет
 // console.log(getAllId)
 //
 //
@@ -34,7 +32,7 @@
 
 // способ ИЗМЕНЕНИЕ содержимое элемента
 //let getOneItem = document.querySelector('.description')
-//1.console.dir(getOneItem) //Спомощью находим класс вывести переменную  и в консоль найти класс
+//1.console.dir(getOneItem) //С помощью находим класс вывести переменную  и в консоль найти класс
 // getOneItem.innerText = 'Hello all'
 
 // let getOneItem = document.querySelector('.description')
@@ -97,15 +95,6 @@
 
 
 
-
-//task1
- //let getOneItem = document.querySelector('a').textContent
-
-// console.log(getOneItem)
-
-//task2
-let getOneItem = document.querySelector('.nav__link__item').value
-console.log(getOneItem)
 
 
 
