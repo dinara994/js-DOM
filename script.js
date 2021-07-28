@@ -43,3 +43,29 @@
 
 //dir - d dblt j,mtrnf
 
+
+//18 строка в HTML
+
+//------------------------КАЛЬКУЛЯТОР----------------------------------
+
+// const num1 = document.querySelector('#first')
+// const num2 = document.querySelector('#second')
+// const resultBtn = document.querySelector('#result')
+// const out  = document.querySelector('#out')
+// const minus  = document.querySelector('#minus')
+// const increase  = document.querySelector('#increase')
+// const  division = document.querySelector('#division')
+// const  clr = document.querySelector('#clr')
+
+
+
+
+
+
+
+
+
+
+
+
+
