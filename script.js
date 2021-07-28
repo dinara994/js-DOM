@@ -96,15 +96,8 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
+//task1 - Напишите функцию, которая вернет текст внутри первого тэга - a.
+ //let getOneItem = document.querySelector('a').textContent
+// console.log(getOneItem)
 
 
