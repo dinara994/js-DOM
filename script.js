@@ -100,4 +100,19 @@
  //let getOneItem = document.querySelector('a').textContent
 // console.log(getOneItem)
 
+//task2 - Напишите функцию, которая вернет массив с текстами внутри тэгов - a.
+// let getHeaderAll = document.querySelectorAll("a")
+// getHeaderAll.forEach(function (entry) {
+//     console.log(Array(entry.textContent))
+// })
+
+/
+
+
+
+
+
+
+
+
 
