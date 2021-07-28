@@ -46,6 +46,7 @@
 
 //18 строка в HTML
 
+
 //------------------------КАЛЬКУЛЯТОР----------------------------------
 
 // const num1 = document.querySelector('#first')
@@ -56,16 +57,17 @@
 // const increase  = document.querySelector('#increase')
 // const  division = document.querySelector('#division')
 // const  clr = document.querySelector('#clr')
-
-
-
-
-
-
-
-
-
-
-
-
-
+//
+// resultBtn.addEventListener('click', () => {
+//     let sum = (Number(num1.value) + Number(num2.value))
+//     out.textContent =  sum.toString()  // HTML обернули span и дали id(xчтоб не вовторял результат. И перемеенную sum превратили в СТРОКУ)
+//     num1.value = ''
+//     num2.value = ''
+//
+// })
+// // Минусовая знчения
+// minus.addEventListener('click', () => {
+//     let sum = (Number(num1.value) - Number(num2.value))
+//     out.textContent =  sum.toString()  // HTML обернули span и дали id(xчтоб не вовторял результат. И перемеенную sum превратили в СТРОКУ)
+//     num1.value = ''
+//     num2.value = ''
