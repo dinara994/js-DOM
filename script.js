@@ -98,6 +98,15 @@
 
 
 
+//task1
+ //let getOneItem = document.querySelector('a').textContent
+
+// console.log(getOneItem)
+
+//task2
+let getOneItem = document.querySelector('.nav__link__item').value
+console.log(getOneItem)
+
 
 
 
